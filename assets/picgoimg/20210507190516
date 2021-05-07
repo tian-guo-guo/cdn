@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<code>FA_INVALID_SESSION</code>
+<messages>
+<message severity="ERROR">No sid parameter!</message></messages></result>
